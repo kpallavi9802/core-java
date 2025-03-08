@@ -1,7 +1,4 @@
-
-
-public class FirstJavaProgram {
-
+public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello World into core java concepts!");
     }
